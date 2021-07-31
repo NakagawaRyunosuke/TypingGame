@@ -1,0 +1,25 @@
+#characters {
+    font-size:2rem;
+}
+
+#typed {
+    color: red;
+}
+
+#timer {
+    background-color: brown;
+    width: 80px;
+    margin-left: 60px;
+}
+
+#p1 {
+    color: darkblue;
+}
+
+#buttons {
+    padding-left: 80px;
+}
+
+#characters {
+    padding-left: 60px;
+}
